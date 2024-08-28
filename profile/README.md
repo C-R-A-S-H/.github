@@ -5,7 +5,7 @@
 We are (C.R.A.S.H), a 501(c)(3) nonprofit organization that aims to inspire and empower students in our
 community through science, technology, engineering, and math (STEM) education. 
 
-##Our FIRST teams:
+## Our FIRST teams:
 - FTC 14707
 - FTC 25407
 - FRC 8788
