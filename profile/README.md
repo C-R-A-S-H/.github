@@ -7,7 +7,7 @@ community through science, technology, engineering, and math (STEM) education.
 
 ## Our FIRST teams:
 - FTC 14707
-- FTC 25704
+- FTC 14708
 - FRC 8788
 
 <!--
